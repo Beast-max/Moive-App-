@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">movieapp</string>
+    <string name="error_fetch_movies" />
+</resources>
